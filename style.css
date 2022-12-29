@@ -147,4 +147,8 @@ table tr {
 		width: 85px;
 		height: 80px;
 	}
+	
+	p {
+		width: 100%;
+	}
 }
